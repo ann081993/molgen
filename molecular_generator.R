@@ -1,5 +1,5 @@
-# 2020-09-11 molecular_generator.R
-
+#### 2020-09-11 molecular_generator.R
+# Author: Seungchan An
 
 # Ref**: https://www.cheminformania.com/master-your-molecule-generator-seq2seq-rnn-models-with-smiles-in-keras/
 # Ref: https://buomsoo-kim.github.io/keras/2019/07/12/Easy-deep-learning-with-Keras-19.md/
