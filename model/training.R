@@ -10,3 +10,6 @@ cat("input_shape, output_dim, latent_dim, lstm_dim:",
 
 unroll = FALSE
 
+
+source("https://raw.githubusercontent.com/ann081993/molgen/main/model/seq2seq_lstm.R")
+source("https://raw.githubusercontent.com/ann081993/molgen/main/model/seq2seq_gru.R")
