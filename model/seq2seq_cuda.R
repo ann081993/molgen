@@ -1,4 +1,6 @@
 #### Seq2seq CUDA ----
+# Author: Seungchan An
+
 # encoder
 encoder_inputs <- layer_input(shape = input_shape)
 encoder <- layer_cudnn_lstm(units = lstm_dim, return_state = TRUE)
