@@ -1,4 +1,4 @@
-#### Seq2seq CUDA ----
+#### Seq2seq LSTM ----
 # Author: Seungchan An
 library(keras)
 
